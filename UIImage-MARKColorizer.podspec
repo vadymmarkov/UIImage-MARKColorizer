@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "UIImage-MARKColorizer"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "UIImage category for image colorizing"
   s.homepage         = "https://github.com/markvaldy/UIImage-MARKColorizer"
   s.license          = {
