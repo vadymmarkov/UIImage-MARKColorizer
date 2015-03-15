@@ -1,0 +1,10 @@
+PODS:
+  - iOS-Color-Picker (1.1.3)
+
+DEPENDENCIES:
+  - iOS-Color-Picker
+
+SPEC CHECKSUMS:
+  iOS-Color-Picker: f0f5bdb417940850fe408dcbc07ec6c758cc87a3
+
+COCOAPODS: 0.36.0
