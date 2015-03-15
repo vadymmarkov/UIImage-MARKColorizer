@@ -26,6 +26,10 @@ Please check Demo project for a basic example on how to use UIImage-MARKColorize
 UIImage *image = [UIImage imageNamed:@"image"];
 UIImage *colorizedImage = [image mark_colorizedCopyWithColor:[UIColor greenColor]
                                                    blendMode:kCGBlendModeMultiply];
+// ...
+UIImage *colorizedImage2 = [UIImage mark_colorizeImage:image
+                                             withColor:[UIColor greenColor] blendMode:kCGBlendModeMultiply];
+
 ```
 
 ## Installation

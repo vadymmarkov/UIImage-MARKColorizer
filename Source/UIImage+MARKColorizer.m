@@ -6,6 +6,9 @@
                       withColor:(UIColor *)color
                       blendMode:(CGBlendMode)blendMode
 {
+    if (!image) {
+        return nil;
+    }
     // Create context
     UIGraphicsBeginImageContextWithOptions(image.size, NO, image.scale);
     CGContextRef context = UIGraphicsGetCurrentContext();
