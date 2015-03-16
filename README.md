@@ -10,7 +10,7 @@ https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/
 Please check Demo project for a basic example on how to use UIImage-MARKColorizer.
 
 ### Demo
-![Alt text](https://cloud.githubusercontent.com/assets/10529867/6666145/c7fd75b8-cbe1-11e4-88ef-3c1fc717e4f9.gif "Demo")
+![Alt text](https://cloud.githubusercontent.com/assets/10529867/6666204/6019fc36-cbe2-11e4-9f25-d41bd2c2538a.gif "Demo")
 
 ### Available methods
 ```objc
